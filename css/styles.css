@@ -1,0 +1,75 @@
+#logoPrincipal{
+  height: 170px;
+  width: 250px;
+}
+
+#barraPrincipal{
+  background-color: #EC8922;
+  height: 50px;
+  width: auto;
+  align-items: center;
+}
+
+.nav > li > a{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+#proyectos{
+  background-color: dodgerblue;
+}
+#contactos{
+  background-color: orange;
+}
+
+#cajaTemporal1{
+  margin: 50px;
+}
+
+#cajaTemporal2{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+#textoPrimero{
+  text-align: justify;
+}
+
+#cajaTemporal3{
+  margin: 50px;
+
+}
+
+#titulo2{
+    color: #BF2972;
+}
+
+#parrafoSegundo{
+  width: 750px;
+  margin-left: 50px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+#cajaTemporal4{
+  margin: 25px;
+}
+
+#titulo4{
+  color: #BF2972;
+  font-weight: bold;
+}
+
+.botonDeTarjeta:hover{
+  color: #FFFFFF;
+}
+
+#tituloParaContactar{
+  margin: 25px;
+  color: white;
+}
+
+#ponerseEnContacto{
+  
+}
